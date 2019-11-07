@@ -123,7 +123,10 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "      Microphone fix for       "
+  ui_print "          GM 9 Pro             "
+  ui_print "         Version: 2            "
+  ui_print "     Created by oguzbakir      "
   ui_print "*******************************"
 }
 
